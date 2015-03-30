@@ -1,6 +1,6 @@
 {
   "name": "level-revision-sublevel",
-  "description": "Sublevel strategy for level-revision",
+  "description": "Sublevel revision strategy for level-revision.",
   "version": "0.1.0",
   "homepage": "https://github.com/doowb/level-revision-sublevel",
   "author": {
